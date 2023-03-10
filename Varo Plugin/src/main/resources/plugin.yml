@@ -1,6 +1,6 @@
-name: Varoplugin
+name: Varo
 version: '${project.version}'
-main: dullimc.varoplugin.Main
+main: de.dullimc.Main
 api-version: 1.14
 authors: [ yDulli, TommeX, Limess07 ]
 description: Funktionsreiches Varo Plugin
